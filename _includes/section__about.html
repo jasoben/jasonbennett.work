@@ -1,0 +1,24 @@
+<section class="about">
+  {% if include.divider == true %}
+    <div class="wrap"><hr/></div>
+    {% endif %}
+  <div class="wrap grid">
+
+    <div class="about__image">
+      <img src="{{ '/images/profile.jpg' | relative_url }}" alt="">
+
+      {% include component-socials.html %}
+    </div>
+
+    <div class="about__content">
+      <h2 class="title">Hey, I’m Jason, nice to meet you!</h2>
+      <p class="subtitle subtitle--light">I’m an Interactive & Immersive Developer as well as an Instructional Designer.
+      </p>
+
+      <p>I specialize in (nearly) full-stack creation of interactive education and training games, simulations, and experiences. I have a masters in Instructional Design (M.Ed. University of Virginia 2016) and a long professional history of UX Design, so I work to ensure that products are optimized for minds as well as devices. I develop in Unity and model in Blender.</p>
+      <p>I'd love to hear from you and start a conversation about your project.</p>
+
+      <a href="#" class="cta button--fill contact-trigger js-contact">Get in Touch</a>
+    </div>
+  </div>
+</section>
