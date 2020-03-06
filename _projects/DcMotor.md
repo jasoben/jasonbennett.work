@@ -3,7 +3,7 @@ title: Papercraft DC Motor
 subtitle: A project-based exploration of electromagnetism for high school students using physical and virtual prototypes.
 date: 2016-05-01
 description: This is a demo post that shows what you can do inside portfolio and blog posts. We’ve included everything you need to create engaging posts and case studies to show off your work in a beautiful way.
-featured_image: demo.jpg
+featured_image: /dcmotor/motor1.png
 accent_color: '#4C60E6'
 gallery_images:
   - demo.jpg
@@ -57,10 +57,11 @@ You can throw in some horizontal rules too:
 
 Here's a really neat custom feature we added – galleries:
 
-{% include post-components/gallery.html
+{% include post-components/video-gallery.html
 	columns = 2
 	full_width = true
-	images = "/images/demo.jpg,/images/demo.jpg,/images/demo.jpg,/images/demo.jpg,
+	images = "/images/projects/dcmotor/battery.webm,/images/projects/dcmotor/electromagnet.webm,/images/projects/dcmotor/magnets-attract-with-field-lines.webm,/images/projects/dcmotor/magnets-repel-with-field-lines.webm,
+	/images/projects/dcmotor/withcommutator.webm
 	"
 %}
 
@@ -71,7 +72,7 @@ Inspired by the Galleries feature from WordPress, we've made it easy to create g
 {% include post-components/gallery.html
 	columns = 2
 	full_width = true
-	images = "/images/demo.jpg,/images/demo.jpg,/images/demo.jpg,/images/demo.jpg,
+	images = "/images/projects/dcmotor/battery.webm,/images/demo.jpg,/images/demo.jpg,/images/demo.jpg,
 	"
 %}
 ```
