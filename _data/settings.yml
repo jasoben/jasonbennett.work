@@ -11,7 +11,7 @@ menu_settings:
     - title: 'Portfolio'
       url: '/'
     - title: 'About'
-      url: '/about/'
+      url: '/about.html'
 
 footer_settings:
   logo_image: 
