@@ -1,5 +1,5 @@
 ---
-title: Inside a Particle Accelerator- VR Visualizer
+title: Inside a Particle Accelerator VR Visualizer
 subtitle: A VR learning experience developed for Oculus Quest about how physicists discover the interior of a proton structure using an electron accelerator.
 date: 2019-09-01
 description: Inside a Particle Accelerator allows learners to "follow an electron" as it travels inside a particle accelerator. They watch the reaction step-by-step as the electron causes the proton target to emit photons that are detected, slowly forming a picture of the proton's structure. 
