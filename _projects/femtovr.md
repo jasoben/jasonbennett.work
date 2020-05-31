@@ -3,10 +3,10 @@ title: Inside a Particle Accelerator VR Visualizer
 subtitle: A VR learning experience developed for Oculus Quest about how physicists discover the interior of a proton structure using an electron accelerator.
 date: 2019-09-01
 description: Inside a Particle Accelerator allows learners to "follow an electron" as it travels inside a particle accelerator. They watch the reaction step-by-step as the electron causes the proton target to emit photons that are detected, slowly forming a picture of the proton's structure. 
-featured_image: femtovr/proton.png
+featured_image: femtovr/vrphysics.png
 accent_color: '#4C60E6'
 gallery_images:
-  - femtovr/proton.png
+  - femtovr/vrphysics.png
 ---
 
 Inside a Particle Accelerator allows learners to "follow an electron" as it travels inside a particle accelerator. They watch the reaction step-by-step as the electron causes the proton target to emit photons that are detected, slowly forming a picture of the proton's structure.
@@ -16,7 +16,7 @@ The use of VR in the visualization is both important and novel. The novelty attr
 It was developed as part of a grant at the University of Virginia Physics Department in conjunction with Jefferson Lab and the School of Data Science. It functions as public outreach for an ongoing grant connected to a new particle accelerator. This is the alpha version with a full release planned for Fall 2020.
 
 {% include post-components/video.html
-	url = "https://www.youtube.com/embed/Wxdm5-gTBSw"
+	url = "https://vimeo.com/405730993"
 	full_width = true
 %}
 
