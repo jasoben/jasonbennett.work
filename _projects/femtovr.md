@@ -16,7 +16,7 @@ The use of VR in the visualization is both important and novel. The novelty attr
 It was developed as part of a grant at the University of Virginia Physics Department in conjunction with Jefferson Lab and the School of Data Science. It functions as public outreach for an ongoing grant connected to a new particle accelerator. This is the alpha version with a full release planned for Fall 2020.
 
 {% include post-components/video.html
-	url = "https://vimeo.com/405730993"
+	url = "https://player.vimeo.com/video/405730993"
 	full_width = true
 %}
 
