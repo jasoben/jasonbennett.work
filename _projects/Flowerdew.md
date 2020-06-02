@@ -13,7 +13,7 @@ The Flowerdew Hundred Unity Sim is a WebGL widget that connects to a Drupal Data
 
 It is used by undergraduate students at the University of Virginia and is available via CC license to any interested party. 
 
-The Drupal -> Unity bridge was built by <a href="www.bitsourceky.com">BitSource</a>.
+The Drupal -> Unity bridge was built by <a href="https://www.bitsourceky.com">BitSource</a>.
 
 Visit and use the tool at [https://flowerdewhundred.org/explore-in-space/](https://flowerdewhundred.org/explore-in-space/)
 
