@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dcmotors on My New Hugo Site</title>
+    <link>http://example.org/dcmotor/</link>
+    <description>Recent content in Dcmotors on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 May 2015 07:28:27 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.org/dcmotor/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Papercraft DC Motor: Animated Explanation</title>
+      <link>http://example.org/dcmotor/animated_explanation/</link>
+      <pubDate>Sun, 10 May 2015 07:28:27 -0400</pubDate>
+      
+      <guid>http://example.org/dcmotor/animated_explanation/</guid>
+      <description>Animated Explanation of Components Magnets Magnetism is a natural force that emerges from the motion of electrons. All elements, whether Iron, Aluminum, or Oxygen, have electrons orbitting their atomic nuclei.
+Normally the electrons in these atoms are all orbiting randomly. But if we expose the atoms to a strong magnetic field, the electron orbits will align and the magnetic direction of the substance will align into a coherent magnetic field.</description>
+    </item>
+    
+    <item>
+      <title>The Papercraft DC Motor: Teacher&#39;s Kit</title>
+      <link>http://example.org/dcmotor/teachers_kit/</link>
+      <pubDate>Sun, 10 May 2015 07:27:34 -0400</pubDate>
+      
+      <guid>http://example.org/dcmotor/teachers_kit/</guid>
+      <description> Introductory Lesson Lesson 2: Batteries Lesson 3: Electric Current and Voltage Lesson 4: Magnets Lesson 5: The Electromagnet Lesson 6: Building the Motor  </description>
+    </item>
+    
+    <item>
+      <title>The Papercraft DC Motor: Simulation</title>
+      <link>http://example.org/dcmotor/simulation/</link>
+      <pubDate>Sun, 10 May 2015 07:27:25 -0400</pubDate>
+      
+      <guid>http://example.org/dcmotor/simulation/</guid>
+      <description>Papercraft DC Motor Simulation Click here to launch the simulation in the Unity Web Player.
+Download the simulation for OS X
+Download the simulation for PC</description>
+    </item>
+    
+    <item>
+      <title>The Papercraft DC Motor: Paper Instructions</title>
+      <link>http://example.org/dcmotor/paper_instructions/</link>
+      <pubDate>Sun, 10 May 2015 07:26:24 -0400</pubDate>
+      
+      <guid>http://example.org/dcmotor/paper_instructions/</guid>
+      <description>Paper Instructions Click here to download the PDF instructions (2mb)</description>
+    </item>
+    
+  </channel>
+</rss>
