@@ -10,12 +10,19 @@ body {
 	padding:10px;
 }
 
-h3 {
+h3 a {
 	display:block;
 	background-color:#fbeec0;
 	padding:10px;
 }
 
-a:hover {
+h3 a:hover {
+	background-color:#d3d3e6;
+}
+
+a {
 	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
 }
