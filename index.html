@@ -1,79 +1,50 @@
----
-layout: default
-overtitle: 
-title: Portfolio
-description: Jason is a Unity Developer and Instructional Designer living in Charlottesville, VA.
-featured_image: /images/social.jpg
----
+<html>
 
-<div class="page-home">
+<link rel="stylesheet" type="text/css" href="css/jbwork_style.css" />
 
-	{% if site.data.settings.hero_settings.background_image %}
-	<img src="{{ site.data.settings.hero_settings.background_image | relative_url }}" class="hero__background" draggable="false">
-	{% endif %}
+<body>
 
-	<section class="hero">
-		<div class="wrap grid">
-			<div class="title">
-				<p class="subtitle">{{ page.overtitle }}</p>
-				<h1>{{ page.title }}</h1>
-			</div>
+<h1>JasonBennett.work</h1>
 
-			<p class="intro subtitle--light">
-				{{ page.description }}
-				<a href="#" class="hero__cta button--fill contact-trigger js-contact">Get In Touch</a>
-			</p>
-		</div>
-	</section>
+<h2>Learning Designer & Unity Developer <br/>in Charlottesville, VA</h2>
 
-	<section class="listing">
-		<div class="wrap">
+<img src="images/profile.jpg" width="500"/>
 
-			{% for project in site.projects reversed %}
+<p>Thanks for visiting my work portfolio. While my day job is working with makerspaces at the University of Virginia, I have been curious about using 3D development tools to explore science concepts since doing my masters work in education. Here you'll find some of the projects that I've worked on (or am currently working on) related to that independent interest.</p>
 
-			{% if project.accent_color %}{% capture accent_color %}{{ project.accent_color }}{% endcapture %}{% endif %}
+<h2 class="blue-background">Projects</h2>
 
-			<article class="project__preview">
-				<h3 class="project__title"><a href="{{ project.url | relative_url }}" style="--accent: {{ accent_color }}">{{ project.title }}</a></h3>
+<h3>Exploring Electromagnetism via a Papercraft Maker Project, Augmented Reality Videos, Unity Simulations, and 3D Animation</h3>
 
-				<div class="project__images owl-carousel" style="--accent: {{ accent_color }}">
-					{% for image in project.gallery_images %}
-					<a href="{{ project.url | relative_url }}"><img src="{{ '/images/projects/' | relative_url}}{{ image }}" alt="" class="project__image"></a>
-					{% endfor %}
-				</div>
+<p>The Papercraft DC Motor is a learning module for middle and high schools that combines die-cutting, electronics, AR videos, animations, and a Unity Simulation to explore electromagnetism. The goal was to create a module on electromagnetism and motors that doesn't require students or teachers to purchase $10-20 kits for each student. The papercraft motor can be built for $.50 / student, and teaches students functional building skills instead of the "plastic snap together" method of most kits.</p>
 
-				<div class="project__content grid" style="border-color: {{ accent_color }}">
-					<p class="project__subtitle subtitle--light">{{ project.subtitle }}</p>
-					<p class="project__description --small">
-						{{ project.description }}
-						<a href="{{ project.url | relative_url }}" class="project__link button--text --right"
-							style="color: {{ accent_color }}; --color-var: {{ accent_color }}">View Case Study</a>
-					</p>
-				</div>
-			</article>
+<video src="dc_motor/public/images/animations/withcommutator.webm" controls="" loop></video>
 
-			{% endfor %}
-		</div>
-	</section>
+<p>It was tested successfully in local middle schools.</p>
 
-	{% include section__about.html %}
+<a href="dc_motor/public/index.html">See videos, animations, download Unity program, and more</a>
 
-	<!--
-	<section class="recent-posts">
-		<div class="wrap grid">
-			<header class="recent-posts__header">
-				<h4>Recent blog posts</h4>
-				<a href="{{ '/blog' | relative_url }}" class="action button--text--accent --right">All Posts</a>
-			</header>
+<h3>Flowerdew Hundred 3D Visualization of Harris Matrix</h3>
 
-			<div class="recent-posts__list grid">
-				{% for post in site.posts limit: 3 %}
-				{% include component__post-preview.html %}
-				{% endfor %}
-			</div>
+<p>The Flowerdew Hundred Unity Sim is a WebGL widget that connects to a Drupal Database, allowing students to explore real data from an archeological dig and visualize it in relation to models and dirt strata. It is a novel way to explore the Harris Matrix-- a common tool in archeology</p>
 
-			<a href="{{ '/blog' | relative_url }}" class="action-bottom button--text--accent --right">All Posts</a>
-		</div>
-	</section>
--->
-</div>
+<img src="images/flowerdew.jpg" width="600"/>
+
+<p>It is used by undergraduate students at the University of Virginia and is available via CC license to any interested party. </p>
+
+<p>The Drupal -> Unity bridge was built by <a href="https://www.bitsourceky.com">BitSource</a>.</p>
+
+<p><a href="https://flowerdewhundred.org/explore-in-space/">Visit and use the tool.</a>
+
+<h3>FemtoNet Explorer Virtual Reality Visualization of Quantum Femtography</h3>
+
+<p>The FemtoNet Explorer allows learners to "follow an electron" as it travels inside a particle accelerator. They watch the reaction step-by-step as the electron causes the proton target to emit photons that are detected, slowly forming a picture of the proton's structure.</p>
+
+<p>The use of VR in the visualization is both important and novel. The novelty attracts learners who would otherwise ignore articles, movies, or animations. VR is an important medium because it grounds learners in a physical world and intuitively allows them to grasp the reality of particles instead of experiences a representational disconnect in the way learners do with screen media. </p>
+
+<p>It was developed as part of a grant at the University of Virginia Physics Department in conjunction with Jefferson Lab and the School of Data Science. It functions as public outreach for an ongoing grant connected to a new particle accelerator. This is the alpha version.</p>
+
+<iframe src="https://player.vimeo.com/video/461625034" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+</body>
+</html>
