@@ -24,8 +24,4 @@ I am a self-taught Unity developer (practicing since 2014). I use it frequently 
 
 Due to my training as an educator, I would say my greatest strength as a coder is I write C# code that is intelligible and instructive to my future self / others. 
 
----
 
-Want to learn more about my services?
-
-Check out [this page](services) I created. It carries a lot more details...
