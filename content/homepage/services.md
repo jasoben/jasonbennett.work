@@ -26,8 +26,4 @@ Due to my training as an educator, I would say my greatest strength as a coder i
 
 The affordances of 3D do not lend themselves to all content, but immersive learning is fundamentally about using the 3D "system" we know (that is, reality) and creating reality-adjacent activities that resonate with the learner's mind. In my collaborations I try to re-imagine learning from this perspective as opposed to re-creating non-immersive tasks in XR.
 
----
 
-Want to learn more about my services?
-
-Check out [this page](services) I created. It carries a lot more details...
