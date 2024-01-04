@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jasonbennett.work</title>
+    <link>https://www.jasonbennett.work/</link>
+    <description>Recent content on jasonbennett.work</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://www.jasonbennett.work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://www.jasonbennett.work/about/</link>
+      <pubDate>Fri, 15 Dec 2023 16:08:22 -0500</pubDate>
+      
+      <guid>https://www.jasonbennett.work/about/</guid>
+      <description>test</description>
+    </item>
+    
+  </channel>
+</rss>
