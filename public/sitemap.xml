@@ -2,13 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.jasonbennett.work/about/</loc>
-    <lastmod>2023-12-15T16:08:22-05:00</lastmod>
+    <loc>//localhost:1313/writing/a-case-for-small-scale-vr/</loc>
+    <lastmod>2024-04-18T16:49:15-04:00</lastmod>
   </url><url>
-    <loc>https://www.jasonbennett.work/categories/</loc>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2024-04-18T16:49:15-04:00</lastmod>
   </url><url>
-    <loc>https://www.jasonbennett.work/</loc>
+    <loc>//localhost:1313/tags/liberty/</loc>
+    <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.jasonbennett.work/tags/</loc>
+    <loc>//localhost:1313/tags/surveillance/</loc>
+    <lastmod>2019-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2019-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/writing/language-perfect/</loc>
+    <lastmod>2019-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/writing/</loc>
+    <lastmod>2019-02-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/loyalty/</loc>
+    <lastmod>2018-12-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/writing/sanity-not-statistical/</loc>
+    <lastmod>2018-12-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/writing/destruction-of-words/</loc>
+    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/writing/controls-the-past/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/projects/uva-physics/</loc>
+    <lastmod>1969-12-31T19:33:44-05:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/projects/</loc>
+    <lastmod>1969-12-31T19:33:44-05:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/projects/uva-health/</loc>
+    <lastmod>1969-12-31T19:33:43-05:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/projects/economics-in-vr/</loc>
+    <lastmod>1969-12-31T19:33:43-05:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/projects/black-power-station/</loc>
+    <lastmod>1969-12-31T19:33:42-05:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/projects/understanding-the-harris-matrix/</loc>
+    <lastmod>1969-12-31T19:33:37-05:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/projects/papercraft-dc-motor/</loc>
+    <lastmod>1969-12-31T19:33:35-05:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/about/</loc>
+  </url><url>
+    <loc>//localhost:1313/categories/</loc>
+  </url><url>
+    <loc>//localhost:1313/pages/</loc>
   </url>
 </urlset>
