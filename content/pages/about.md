@@ -1,12 +1,18 @@
 ---
 title: 'About'
 url: "/about/"
-image: images/about.jpg
+
 ---
+
+<img src="/images/about.jpg" align="right" width="300" style="padding: 20px"/>
 
 ## About My Work
 
+### Day Job
+
 I work full-time at the [University of Virginia](https://learningdesign.as.virginia.edu/jason-bennett) doing a mix of instructional design, instructional technology, project management, and software development. I manage two maker spaces as well as two XR labs. Our team serves the College of Arts & Sciences, UVA's largest school; I work with a very wide swath of faculty, including STEM, social sciences, humanities, and the arts. 
+
+### Freelance
 
 As a freelancer I do everything from curriculum design consulting to interactive software development-- often on the same project. I enjoy learning new skills and working on challenging, meaningful projects.
 
@@ -14,6 +20,7 @@ As a freelancer I do everything from curriculum design consulting to interactive
 
 * Instructional Design (primarily using the rapid prototyping method)
 * Instructional Tech
+* E-Learning Design & Development
 * Video Editing 
 * Motion Graphics
 * Game / Interactive / XR Development (Unity, Unreal Engine, Godot)
@@ -41,3 +48,4 @@ As a freelancer I do everything from curriculum design consulting to interactive
 ## Hobbies
 
 I play and run tabletop games, rock climb, mountain bike, skateboard, design games, play drums and banjo, build very ugly things out of wood, and hang out with my goofy German Shepherd. 
+

@@ -13,6 +13,7 @@ pygmentsUseClasses = true
     extended = true
     min = "0.55.0"
 
+
 [params]
   google_analytics_id = ""
   twitter_handle = "@zerostaticio"
