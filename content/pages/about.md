@@ -8,7 +8,7 @@ url: "/about/"
 
 ## About My Work
 
-### Day Job
+### Day job
 
 I work full-time at the [University of Virginia](https://learningdesign.as.virginia.edu/jason-bennett) doing a mix of instructional design, instructional technology, project management, and software development. I manage two maker spaces as well as two XR labs. Our team serves the College of Arts & Sciences, UVA's largest school; I work with a very wide swath of faculty, including STEM, social sciences, humanities, and the arts. 
 
