@@ -28,17 +28,13 @@ Of course, sometimes the instructor(s) knows *exactly* what they want, in which 
 
 Either way, I find the best project for everybody (me, the instructor(s), and the learners) is one where we can get the head and the heart of the instructor(s) in as much agreement as possible. Learners know when instruction is logical and efficient, and they also feel when it is vital and authentic. 
 
-### A note to hiring managers (or instructors acting as hiring managers)
+### A note on tools
 
-I see this frequently enough in job postings that I like to mention it. Good hiring managers are looking for every guarantee that their hires will do the job well; in doing so for learning design projects, however, they often make the mistake of emphasizing the tool or platform in their search criteria. I often see postings such as "need SPECIFIC E-LEARNING TOOL expert" or "we need somebody intimately familiar with SPECIFIC PLATFORM". 
+I do not list specific tools because I consider myself generally versed in using and learning most tools. I enjoy learning them and have learned widely, so learning new ones is fairly easy at this point-- it's the same as somebody who has learned multiple world languages; tools like languages have common ancestries, and therefore similar features. Most of the tools are pretty good these days and can produce excellent results; they differ mostly in how enjoyable they are to work with.
 
-There *are* times when a hiring manager really does need a tool / platform expert, in which case you want the best e-learning *developer* you can find. In *most* of these postings, though, hiring managers are looking for help with their learning design, and by putting the tool front and center they make a very common cognitive error I call the "hammer falacy": if you've used a hammer, then you can build my house. 
+I see many posts that seem to lead with the tool-- "We need an INSERT TOOL HERE expert!" Over the years working with instructors I've noticed that most of them do not have time nor interest to learn tools, and why should they? Their content and engagement with learners are most valuable. As a result, however, they might look for reassurance that a collaborator will be confident with the specific tool and will fill that knowledge gap in the project. Unfortunately they often end up hiring a collaborator who is *primarily* confident with the tool, and the results reveal *another* gap in knowledge: the learning design.
 
-Any old contractor can use a hammer. Most *good* contractors, however, can easily learn new tools and processes quickly as needed to complete their work *and* they do the difficult work of listening, thinking, and contributing to the vision of what you want to build. The specific tool and/or platform will be easy to learn for anybody who has spent their career working with tools and platforms. You need a contractor who can do the difficult parts. 
-
-Therefore I recommend listing your tool / platform as an afterthought. Don't say, "We need a Storyline expert," say, "we are most familiar with Storyline." This leaves your mind (and applicant pool) open to freelancers who are interested in your learning goals, your needs, and the underlying structure of your course, who may (or may not!) be intimately familiar with Storyline. Trust me, if I need to learn a tool, I can do it in about six hours (on my own time). Any good learning designer who also does development can do the same.
-
-Of course, as somebody who has worked construction, I have seen first hand good contractors who *also* are SUPER impressive with their hammers, so if you can hire the unicorn freelancer who is skilled all-around, by all means do so. Don't just hire for the hammer, though. Don't make the "hammer falacy" when you hire a learning designer.
+There are some learning designers who don't work with the tools at all, but most of us do. Just as most good architects can use or learn any CAD software, most good learning designers can use or learn any software related to learning / e-learning. (Many of us can also do video editing, graphic design, programming, 3D modeling, motion graphics, illustration, etc. etc. see skills below.) I do not list specific tools because there are too many to list. Instead of focusing on specific tools, I like to start our conversations with a focus on the learning design. 
 
 
 ## Skills
