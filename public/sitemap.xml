@@ -2,64 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/writing/a-case-for-small-scale-vr/</loc>
+    <loc>/writing/a-case-for-small-scale-vr/</loc>
     <lastmod>2024-04-18T16:49:15-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2024-04-18T16:49:15-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/liberty/</loc>
+    <loc>/tags/liberty/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/surveillance/</loc>
+    <loc>/tags/surveillance/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/writing/language-perfect/</loc>
+    <loc>/writing/language-perfect/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/writing/</loc>
+    <loc>/writing/</loc>
     <lastmod>2019-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/loyalty/</loc>
+    <loc>/tags/loyalty/</loc>
     <lastmod>2018-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/writing/sanity-not-statistical/</loc>
+    <loc>/writing/sanity-not-statistical/</loc>
     <lastmod>2018-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/writing/destruction-of-words/</loc>
+    <loc>/writing/destruction-of-words/</loc>
     <lastmod>2018-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/writing/controls-the-past/</loc>
+    <loc>/writing/controls-the-past/</loc>
     <lastmod>2018-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/projects/uva-physics/</loc>
+    <loc>/projects/uva-physics/</loc>
     <lastmod>1969-12-31T19:33:44-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/projects/</loc>
+    <loc>/projects/</loc>
     <lastmod>1969-12-31T19:33:44-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/projects/uva-health/</loc>
+    <loc>/projects/uva-health/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/projects/economics-in-vr/</loc>
+    <loc>/projects/economics-in-vr/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/projects/black-power-station/</loc>
+    <loc>/projects/black-power-station/</loc>
     <lastmod>1969-12-31T19:33:42-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/projects/understanding-the-harris-matrix/</loc>
+    <loc>/projects/understanding-the-harris-matrix/</loc>
     <lastmod>1969-12-31T19:33:37-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/projects/papercraft-dc-motor/</loc>
+    <loc>/projects/papercraft-dc-motor/</loc>
     <lastmod>1969-12-31T19:33:35-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>/about/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/pages/</loc>
+    <loc>/pages/</loc>
   </url>
 </urlset>
