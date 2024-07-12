@@ -30,7 +30,7 @@ Either way, I find the best project for everybody (me, the instructor(s), and th
 
 ### A note on tools
 
-I do not list specific tools because I consider myself generally versed in using and learning most tools. I enjoy learning them and have learned widely, so learning new ones is fairly easy at this point-- it's the same as somebody who has learned multiple world languages; tools like languages have common ancestries, and therefore similar features. Most of the tools are pretty good these days and can produce excellent results; they differ mostly in how enjoyable they are to work with.
+I do not list specific tools because I consider myself generally versed in using and learning most tools. I enjoy learning them and have learned widely, so learning new ones is fairly easy at this point-- it's the same as somebody who has learned multiple world languages; tools, like languages, have common ancestries, and therefore similar features. Most of the tools are pretty good these days and can produce excellent results; they differ mostly in how enjoyable they are to work with.
 
 Over the years working with instructors I've noticed that most of them do not have time nor interest to learn tools, and why should they? Their content and engagement with learners are most valuable. As a result, however, they might look for reassurance that a collaborator will be confident with the specific tool and will fill that knowledge gap in the project. Unfortunately they often end up hiring a collaborator who is *primarily* confident with the tool, and the results reveal *another* gap: the learning design.
 
