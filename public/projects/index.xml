@@ -2,52 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on JasonBennett.work</title>
-    <link>/projects/</link>
+    <link>//localhost:1313/projects/</link>
     <description>Recent content in Projects on JasonBennett.work</description>
     <generator>Hugo 0.125.1</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 31 Dec 1969 19:33:44 -0500</lastBuildDate>
-    <atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Inside the Proton: A Virtual Reality Museum</title>
-      <link>/projects/uva-physics/</link>
+      <link>//localhost:1313/projects/uva-physics/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:44 -0500</pubDate>
-      <guid>/projects/uva-physics/</guid>
+      <guid>//localhost:1313/projects/uva-physics/</guid>
       <description>A collaborative group of physicists representing multiple universities and organizations wanted to show their research on proton &amp;ldquo;photography&amp;rdquo; (as such) in a captivating way both to fellow physicists and non-physicists. Via conversations and design sessions, we settled on a virtual museum using the Meta Quest 2, with the primary exhibit showing a &amp;ldquo;behind the electron&amp;rdquo; view of how a particle accelerator creates data about protons via collisions.&#xA;My process I ran brainstorming &amp;amp; design sessions with content experts, storyboarded the exhibits and interactions, modeled all assets, built the app in Unity, and successfully delivered the app for use at multiple physics conferences.</description>
     </item>
     <item>
       <title>360 Video Medical School Training</title>
-      <link>/projects/uva-health/</link>
+      <link>//localhost:1313/projects/uva-health/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
-      <guid>/projects/uva-health/</guid>
+      <guid>//localhost:1313/projects/uva-health/</guid>
       <description>The UVA Health System needed help creating their immersive med-student training prototype for the central line placement procedure (a common medical procedure). The project successfully demonstrated the potential of 360 video as a tool for distraction-free, immersive learning. Students remarked that the prototype helped them focus, practice choosing the right tool in the sequence, and feel a connection with the instructor. Compared to the 2D version (developed concurrently), students found the immersive experience reduced cognitive load and distractions while also giving them an &amp;ldquo;over the doctor&amp;rsquo;s shoulder&amp;rdquo; experience.</description>
     </item>
     <item>
       <title>Visualizing Economics in Virtual Reality</title>
-      <link>/projects/economics-in-vr/</link>
+      <link>//localhost:1313/projects/economics-in-vr/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
-      <guid>/projects/economics-in-vr/</guid>
+      <guid>//localhost:1313/projects/economics-in-vr/</guid>
       <description>Working over multiple years with faculty and students we developed a pilot of a college-level economics course taught entirely in virtual reality. We used the Rec Room metaverse app as the platform, with students using Meta Quest 2 headsets.&#xA;Students welcomed a change from Zoom school (this project started during the pandemic), and found the ability to &amp;ldquo;move around&amp;rdquo; data helpful to understand economics concepts visualized in 3D.&#xA;My process I embedded in the class for two years as an instructional designer.</description>
     </item>
     <item>
-      <title>Liberatory Design as a Framework for International Collaboration</title>
-      <link>/projects/black-power-station/</link>
-      <pubDate>Wed, 31 Dec 1969 19:33:42 -0500</pubDate>
-      <guid>/projects/black-power-station/</guid>
-      <description>Working over multiple years closely with faculty, grad students, and undergrads, we developed a semester-long project-based course that has undergraduate students collaborating with artists from The Black Power Station&amp;ndash; an arts collective in Makhanda, South Africa.&#xA;The student projects combine skills in design thinking (using the Liberatory Design framework and card deck), project management, deep listening, creative collaboration, event planning, and international diplomacy. Students made use of digital whiteboard tools, ePortfolios, design thinking exercises, mindfulness-based pedagogy, contract grading, makerspaces, media production, and traditional scholarship.</description>
-    </item>
-    <item>
       <title>3D Harris Matrix: Visualizing Archeology</title>
-      <link>/projects/understanding-the-harris-matrix/</link>
+      <link>//localhost:1313/projects/understanding-the-harris-matrix/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:37 -0500</pubDate>
-      <guid>/projects/understanding-the-harris-matrix/</guid>
+      <guid>//localhost:1313/projects/understanding-the-harris-matrix/</guid>
       <description>The Harris Matrix is a common tool in archeology used to identify where artifacts are located in dirt strata. Working with archeologists, I developed a tool that helps students identify the same data in 3D.&#xA;My process I designed and tested the tool in Unity.&#xA;Target audience University undergraduate students&#xA;My roles 3D modeler Interface designer Instructional designer Game developer Collaborators Content Experts Students </description>
     </item>
     <item>
       <title>The Papercraft DC Motor: an Open-Source Middle School Learning Module</title>
-      <link>/projects/papercraft-dc-motor/</link>
+      <link>//localhost:1313/projects/papercraft-dc-motor/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:35 -0500</pubDate>
-      <guid>/projects/papercraft-dc-motor/</guid>
+      <guid>//localhost:1313/projects/papercraft-dc-motor/</guid>
       <description>An open-source module for middle school students learning electrical and mechanical engineering. The goal was to create a working DC motor project that could be done for much less than the typical cost of kits. The materials needed to build the Papercraft DC Motor cost about $1.50 per kit, compared to $10-20 for typical kits, and could be purchased at any big-box Home Supply store.&#xA;The kit has been successfully used in multiple middle schools.</description>
     </item>
   </channel>

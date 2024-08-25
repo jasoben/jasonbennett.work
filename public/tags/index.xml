@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on JasonBennett.work</title>
-    <link>/tags/</link>
+    <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on JasonBennett.work</description>
     <generator>Hugo 0.125.1</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 Aug 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Liberty</title>
-      <link>/tags/liberty/</link>
+      <link>//localhost:1313/tags/liberty/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/liberty/</guid>
+      <guid>//localhost:1313/tags/liberty/</guid>
       <description></description>
     </item>
     <item>
       <title>Surveillance</title>
-      <link>/tags/surveillance/</link>
+      <link>//localhost:1313/tags/surveillance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/surveillance/</guid>
+      <guid>//localhost:1313/tags/surveillance/</guid>
       <description></description>
     </item>
     <item>
       <title>Loyalty</title>
-      <link>/tags/loyalty/</link>
+      <link>//localhost:1313/tags/loyalty/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/loyalty/</guid>
+      <guid>//localhost:1313/tags/loyalty/</guid>
       <description></description>
     </item>
   </channel>
