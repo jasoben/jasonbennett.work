@@ -20,7 +20,7 @@ As a freelancer I specialize in immersive learning experience design. Learning e
 
 I follow the process of "Backwards Design"-- meaning we start by clearly defining the learning goals and then design backwards from them. Other steps include defining and empathizing with our learner audience, understanding their various abilities, brainstorming / ideating, choosing a platform / mode, storyboarding, prototyping, and many other steps depending on the project. 
 
-There is an important step before all those steps, though. In what I imagine as the "pre-design" phase, I try to get a sense of the instructor(s) and their professional, personal, and creative goals. Learners know when instruction is logical and efficient, and they also feel when it is vital and authentic. When we can find the best possible option for the instructor(s), the design process is much more powerful and fun.
+There is an important step before all those steps, though. In what I imagine as the "pre-design" phase, I try to get a sense of the instructor(s) and their professional, personal, and creative goals. Learners know when instruction is logical and efficient, and they also feel when it is vital and authentic. When we can find the best possible option for the instructor(s), the learning experience tends to resonate better with the learners, and the design process is much more powerful and fun.
 
 
 ## Skills
