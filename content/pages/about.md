@@ -14,7 +14,7 @@ I work full-time at the [University of Virginia](https://learningdesign.as.virgi
 
 ### Freelance
 
-As a freelancer I specialize in immersive learning experience design. I enjoy learning new skills and working on challenging, meaningful projects.
+As a freelancer I specialize in immersive learning experience design. Learning experience design is a broad lens on instructional design that takes into account the cognitive experience, the emotional experience, the UX, and the aesthetic experience. I enjoy being a "soup to nuts" designer, who does everything from brainstorming to coding to analytics. I fundamentally love learning new skills, and appreciate when I have a great learning experience. I aim to pay those experiences forward in my work. 
 
 ### My process
 
