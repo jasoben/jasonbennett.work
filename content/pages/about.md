@@ -28,10 +28,10 @@ There is an important step before all those steps, though. In what I imagine as 
 * Instructional Design 
 * Instructional Tech
 * E-Learning Design & Development
+* Game / Interactive / XR Design & Development (Unity and Unreal)
 * Video Editing 
 * Graphic Design
 * Motion Graphics
-* Game / Interactive / XR Design & Development (Unity and Unreal)
 * MS Power Platform
 * Languages known well: C#, Python, JS/Typescript
 
