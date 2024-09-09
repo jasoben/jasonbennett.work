@@ -3,7 +3,6 @@ title: Full-Stack Immersive Learning eXperience Design
 description: All the learning designs are belong to us
 ---
 
-Immersive learning experience design begins with human needs 
-<br/>and ends with humans learning. <br/>In between there's lots of tech. 
-
-Basically a human / tech sandwich, or in other words: a full stack.
+<p>For <span style="color: #7b16ff">educators</span> who want to translate learning goals into immersive learning experiences. </p>
+<p>For <span style="color: #7b16ff">software developers</span> who want to understand the needs of educators.</p>
+<p>I bridge the gap, speak both languages, and ensure there is mutual understanding that leads to great learning outcomes. </p>
