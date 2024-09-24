@@ -16,4 +16,4 @@ I work full-time at the [University of Virginia](https://learningdesign.as.virgi
 
 As a freelancer I specialize in immersive learning experience design. Learning experience design is a broad lens on instructional design that takes into account the cognitive experience, the emotional experience, the UX, and the aesthetic experience. I enjoy being a "soup to nuts" designer, who does everything from brainstorming to coding to analytics. I fundamentally love learning new skills, and appreciate when I have a great learning experience. I aim to pay those experiences forward in my work. I am able to speak the languages of both educators and developers, and thus ensure holistic understanding and successful projects. 
 
-I primarily work in and know Unity, but am comfortable in Unreal. In my personal game design I am increasingly using Godot, which I hope will continue on its trajectory to become fully immersive-capable. 
+In addition to instructional design, I am skilled in graphic design, interactive design, videography, 3D modeling (mostly Blender), 3D development (Unity, Unreal, and Godot), photography, and both creative and technical writing. 
