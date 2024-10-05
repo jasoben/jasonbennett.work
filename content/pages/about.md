@@ -14,6 +14,22 @@ I work full-time at the [University of Virginia](https://learningdesign.as.virgi
 
 ### Freelance
 
-As a freelancer I specialize in immersive learning experience design. Learning experience design is a broad lens on instructional design that takes into account the cognitive experience, the emotional experience, the UX, and the aesthetic experience. I enjoy being a "soup to nuts" designer, who does everything from brainstorming to coding to analytics. I fundamentally love learning new skills, and appreciate when I have a great learning experience. I aim to pay those experiences forward in my work. I am able to speak the languages of both educators and developers, and thus ensure holistic understanding and successful projects. 
+As a freelancer I specialize in interactive learning experience design. Learning experience design is a broad lens on instructional design that takes into account the cognitive experience, the emotional experience, the UX, and the aesthetic experience. I enjoy being a "soup to nuts" designer, who does everything from brainstorming to coding to analytics. I fundamentally love learning new skills, and appreciate when I have a great learning experience. I aim to pay those experiences forward in my work. I am able to speak the languages of both educators and developers, and thus ensure holistic understanding and successful projects. 
 
-In addition to instructional design, I am skilled in graphic design, interactive design, videography, 3D modeling (mostly Blender), 3D development (Unity, Unreal, and Godot), photography, and both creative and technical writing. 
+### Skills
+
+In addition to instructional design, I am skilled in the following:
+
+* Graphic Design (Adobe Creative Suite, but mostly use Serif's Affinity products these days) 
+* Game Design
+* Interactive Design / UX
+* Videography
+* 3D modeling (mostly Blender)
+* 3D development (Unity, Unreal, and Godot)
+* Photography
+* Both creative and technical writing
+* Illustration and drawing
+
+### Fun
+
+For fun I like to play tabletop role-playing games, do "mountain sports" (mountain biking, snowboarding, rock climbing, hiking), skateboard, play heavy metal drums, play clawhammer banjo, make games, draw and design, and hang out with my incredibly goofy German Shepherd
