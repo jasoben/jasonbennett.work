@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Full-Stack Immersive Learning eXperience Design on JasonBennett.work</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content in Full-Stack Immersive Learning eXperience Design on JasonBennett.work</description>
     <generator>Hugo 0.125.1</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 18 Apr 2024 16:49:15 -0400</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Case for Small-Scale VR</title>
-      <link>/writing/a-case-for-small-scale-vr/</link>
+      <link>//localhost:1313/writing/a-case-for-small-scale-vr/</link>
       <pubDate>Thu, 18 Apr 2024 16:49:15 -0400</pubDate>
-      <guid>/writing/a-case-for-small-scale-vr/</guid>
+      <guid>//localhost:1313/writing/a-case-for-small-scale-vr/</guid>
       <description>When imagining learning objectives for VR apps, educators tend to think big.&#xA;&amp;ldquo;Students can explore the whole universe!&amp;rdquo;&#xA;&amp;ldquo;They&amp;rsquo;ll live in history!&amp;rdquo;&#xA;&amp;ldquo;It&amp;rsquo;ll be like Magic School Bus, but in VR!&amp;rdquo;&#xA;VR tends to inspire these flights of imagination because, well, that&amp;rsquo;s what tech companies promise us. Also: it is technically possible to do all the things I just had hypothetical educators imagine. The catch, of course, is that developing for VR takes lots of time, money, and skill.</description>
     </item>
     <item>
       <title>The revolution will be complete when the language is perfect</title>
-      <link>/writing/language-perfect/</link>
+      <link>//localhost:1313/writing/language-perfect/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/writing/language-perfect/</guid>
+      <guid>//localhost:1313/writing/language-perfect/</guid>
       <description>He moved over to the window Since about that time, war had been literally continuous, though strictly speaking it had not always been the same war. For several months during his childhood there had been confused street fighting in London itself, some of which he remembered vividly.&#xA;Inside the flat a fruity voice was reading out a list of figures which had something to do with the production of pig iron.</description>
     </item>
     <item>
       <title>Sanity is not statistical</title>
-      <link>/writing/sanity-not-statistical/</link>
+      <link>//localhost:1313/writing/sanity-not-statistical/</link>
       <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/writing/sanity-not-statistical/</guid>
+      <guid>//localhost:1313/writing/sanity-not-statistical/</guid>
       <description>There was no way of knowing whose version would finally be adopted Once again he glanced at his rival in the opposite cubicle. Something seemed to tell him with certainty that Tillotson was busy on the same job as himself. There was no way of knowing whose version would finally be adopted, but he felt a profound conviction that it would be his own&#xA;Mare torrentur Mare torrentur tenuerunt Iovemque crudelis erat non manuque nullaque Pyreneus, evocet pectus, nube.</description>
     </item>
     <item>
       <title>It&#39;s a beautiful thing, the destruction of words</title>
-      <link>/writing/destruction-of-words/</link>
+      <link>//localhost:1313/writing/destruction-of-words/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>/writing/destruction-of-words/</guid>
+      <guid>//localhost:1313/writing/destruction-of-words/</guid>
       <description>He moved over to the window Lorem markdownum comes; pro est modo famulus, quo quod neu manibus aether his nomine, Aurora, voce. Ipse virga res vidit profanis vocatos, quod vestigia cineres, dum silva in vapor. Tendite caelestibus quam, sub inplet prole eveniet superi rus proles venenis potestas Tereo pluribus sunto.&#xA;Perque cessisse, hoc tum auras sinuosa. Pressant nec vinci primoque quoque funibus est: et tempore vetitorum? Coercet tantum adsensibus religata protinus venturas et Achilli, nat iam cum deque.</description>
     </item>
     <item>
       <title>Who controls the past controls the future. Who controls the present controls the past</title>
-      <link>/writing/controls-the-past/</link>
+      <link>//localhost:1313/writing/controls-the-past/</link>
       <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>/writing/controls-the-past/</guid>
+      <guid>//localhost:1313/writing/controls-the-past/</guid>
       <description>He moved over to the window Since about that time, war had been literally continuous, though strictly speaking it had not always been the same war. For several months during his childhood there had been confused street fighting in London itself, some of which he remembered vividly.&#xA;Inside the flat a fruity voice was reading out a list of figures which had something to do with the production of pig iron.</description>
     </item>
     <item>
       <title>Inside the Proton: A Virtual Reality Museum</title>
-      <link>/projects/uva-physics/</link>
+      <link>//localhost:1313/projects/uva-physics/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:44 -0500</pubDate>
-      <guid>/projects/uva-physics/</guid>
+      <guid>//localhost:1313/projects/uva-physics/</guid>
       <description>A collaborative group of physicists representing multiple universities and organizations wanted to show their research on proton &amp;ldquo;photography&amp;rdquo; (as such) in a captivating way both to fellow physicists and non-physicists. Via conversations and design sessions, we settled on a virtual museum using the Meta Quest 2, with the primary exhibit showing a &amp;ldquo;behind the electron&amp;rdquo; view of how a particle accelerator creates data about protons via collisions.&#xA;My process I ran brainstorming &amp;amp; design sessions with content experts, storyboarded the exhibits and interactions, modeled all assets, built the app in Unity, and successfully delivered the app for use at multiple physics conferences.</description>
     </item>
     <item>
       <title>360 Video Medical School Training</title>
-      <link>/projects/uva-health/</link>
+      <link>//localhost:1313/projects/uva-health/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
-      <guid>/projects/uva-health/</guid>
+      <guid>//localhost:1313/projects/uva-health/</guid>
       <description>The UVA Health System needed help creating their immersive med-student training prototype for the central line placement procedure (a common medical procedure). The project successfully demonstrated the potential of 360 video as a tool for distraction-free, immersive learning. Students remarked that the prototype helped them focus, practice choosing the right tool in the sequence, and feel a connection with the instructor. Compared to the 2D version (developed concurrently), students found the immersive experience reduced cognitive load and distractions while also giving them an &amp;ldquo;over the doctor&amp;rsquo;s shoulder&amp;rdquo; experience.</description>
     </item>
     <item>
       <title>Visualizing Economics in Virtual Reality</title>
-      <link>/projects/economics-in-vr/</link>
+      <link>//localhost:1313/projects/economics-in-vr/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
-      <guid>/projects/economics-in-vr/</guid>
+      <guid>//localhost:1313/projects/economics-in-vr/</guid>
       <description>Working over multiple years with faculty and students we developed a pilot of a college-level economics course taught entirely in virtual reality. We used the Rec Room metaverse app as the platform, with students using Meta Quest 2 headsets.&#xA;Students welcomed a change from Zoom school (this project started during the pandemic), and found the ability to &amp;ldquo;move around&amp;rdquo; data helpful to understand economics concepts visualized in 3D.&#xA;My process I embedded in the class for two years as an instructional designer.</description>
     </item>
     <item>
       <title>3D Harris Matrix: Visualizing Archeology</title>
-      <link>/projects/understanding-the-harris-matrix/</link>
+      <link>//localhost:1313/projects/understanding-the-harris-matrix/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:37 -0500</pubDate>
-      <guid>/projects/understanding-the-harris-matrix/</guid>
+      <guid>//localhost:1313/projects/understanding-the-harris-matrix/</guid>
       <description>The Harris Matrix is a common tool in archeology used to identify where artifacts are located in dirt strata. Working with archeologists, I developed a tool that helps students identify the same data in 3D.&#xA;My process I designed and tested the tool in Unity.&#xA;Target audience University undergraduate students&#xA;My roles 3D modeler Interface designer Instructional designer Game developer Collaborators Content Experts Students </description>
     </item>
     <item>
       <title>The Papercraft DC Motor: an Open-Source Middle School Learning Module</title>
-      <link>/projects/papercraft-dc-motor/</link>
+      <link>//localhost:1313/projects/papercraft-dc-motor/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:35 -0500</pubDate>
-      <guid>/projects/papercraft-dc-motor/</guid>
+      <guid>//localhost:1313/projects/papercraft-dc-motor/</guid>
       <description>An open-source module for middle school students learning electrical and mechanical engineering. The goal was to create a working DC motor project that could be done for much less than the typical cost of kits. The materials needed to build the Papercraft DC Motor cost about $1.50 per kit, compared to $10-20 for typical kits, and could be purchased at any big-box Home Supply store.&#xA;The kit has been successfully used in multiple middle schools.</description>
     </item>
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>//localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/about/</guid>
+      <guid>//localhost:1313/about/</guid>
       <description>About My Work Day job I work full-time at the University of Virginia doing a mix of learning design design, instructional technology, project management, and software development. I manage two maker spaces as well as two XR labs. Our team serves the College of Arts &amp;amp; Sciences, UVA&amp;rsquo;s largest school; I work with a very wide swath of faculty, including STEM, social sciences, humanities, and the arts.&#xA;Freelance As a freelancer I specialize in immersive learning experience design.</description>
     </item>
   </channel>
