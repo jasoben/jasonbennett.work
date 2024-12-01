@@ -1,5 +1,5 @@
 ---
-title: Full-Stack Interactive Learning eXperience Design
+title: Full-Stack Immersive Learning eXperience Design
 description: All the learning designs are belong to us
 ---
 
